@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Mark!</h1>
-<h3 align="center">A developer who knows everything but also nothing at the same time.</h3>
 
 
 
