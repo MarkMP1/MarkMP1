@@ -2,7 +2,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=markmp1&label=Visits&color=f01aff&style=flat" alt="markmp1" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=markmp1&label=Visits&color=f01aff&style=flat" alt="markmp1" /> </p>
 
 <p>Hi! I'm a developer who has been developing primarily with C++ and Python (10000+ lines). I have a high interest in <strong>competitive programming</strong> and is where I spend most of my time coding. I also enjoy making mini-projects involved with various topics such as web scraping, web development, databases, automation, and more!</p>
 
